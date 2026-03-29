@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Ishadh, a Computer Science student who enjoys building things on the web. I like working across the stack and exploring cloud and AI to turn ideas into something real.
+I'm Ishadh, a Computer Science undergraduate who enjoys building cool things. I like working across the stack and exploring cloud to turn ideas into something real.
 
 Outside of tech, I enjoy socializing, meeting new people, and playing football — it keeps me balanced and energized.
 
