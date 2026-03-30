@@ -2,7 +2,7 @@
 
 I'm Ishadh, a Computer Science undergraduate who enjoys building cool things. I like working across the stack and exploring cloud to turn ideas into something real.
 
-Outside of tech, I enjoy socializing, meeting new people, and playing football — it keeps me balanced and energized.
+Outside of tech, I enjoy socializing, meeting new people, and playing football - it keeps me balanced and energized.
 
 ---
 
