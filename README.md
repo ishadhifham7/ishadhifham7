@@ -1,27 +1,96 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi there! I'm Ishadh Ifham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I'm Ishadh, a Computer Science undergraduate who enjoys building cool things. I like working across the stack and exploring cloud to turn ideas into something real.
+<p align="center"><strong>Full-Stack Developer | Cloud & AI Enthusiast | Product-Oriented Builder</strong></p>
 
-Outside of tech, I enjoy socializing, meeting new people, and playing football - it keeps me balanced and energized.
+<p align="center">
+  I’m a Computer Science undergraduate focused on building scalable, user-focused applications and AI-powered digital products. I work across full-stack development, creating modern web experiences and integrating AI features into real systems. I’m interested in cloud technologies, scalable system design, and Generative AI, including LLM-powered and agentic workflows.
+</p>
 
----
+<h2> 👨‍💻 About Me </h2>
 
-### 🌐 Connect with me
+<h4>🔭 Current Work</h4> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishadh-ifham-b5a7a2357)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ishadh-portfolio.vercel.app/)
+•  Building an AI-powered mock interview platform with question generation and response evaluation.  
+• Currently doing AWS Cloud Practitioner certification while learning core cloud fundamentals.  
+• Designing low-latency conversational audio streams to enable natural, real-time voice interactions with AI systems.  
+• Learning AI automation to build intelligent workflows and system-level productivity tools.  
 
-<!--
-**ishadhifham7/ishadhifham7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>🌱 Learning & Growth </h4> 
 
-Here are some ideas to get you started:
+• Expanding into Generative AI and LLM-powered application design.  
+• Understanding scalable backend systems and cloud-based architectures.  
+• Exploring agentic workflows and AI system orchestration.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>👯 Collaboration </h4>
+
+• Open to collaborating on open-source web utilities, developer tools, and clean, product-driven software.  
+• Interested in connecting with developers and builders working on LLMs, automation, and scalable software.
+
+<h4>⚡ Fun Fact</h4>
+<ul>
+  <li>When I'm not coding, I dive deep into research and books about:
+    <ul>
+      <li>Frameworks for intentional self-growth 📈</li>
+      <li>Behavioral psychology & cognitive biases 🧠</li>
+      <li>The mechanics of habit formation & discipline 🔄</li>
+      <li>Mindset shifts & practical philosophy 🎯</li>
+    </ul>
+  </li>
+</ul>
+<br>
+<h4 align="center">Get In Touch With Me</h4>
+
+<p align="center">
+  <a href="mailto:ishadhifham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="www.linkedin.com/in/ishadh-ifham-b5a7a2357">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ishadh-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<h2> 🛠️ Tech Stack & Tools </h2>
+
+<br>
+
+<p align="center">
+  <strong>🤖 AI Systems & Intelligent Agents</strong>
+</p>
+<p align="center">
+  <img src="https://api.iconify.design/logos:google-gemini.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Gemini" />
+  <img src="https://api.iconify.design/logos:google-icon.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Gemma" />
+  <img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23ffffff" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 12px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Grok" />
+  <img src="https://api.iconify.design/logos:meta-icon.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="LLaMA" />
+</p>
+<p align="center">
+  <i>Local LLM Deployment (Gemma 4, LLaMA), API Orchestration (Gemini, Grok), Voice Integration, Agentic Workflows</i>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>💻 Full-Stack Architecture</strong>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,ts,express,react,tailwind,postgres,firebase" />
+</p>
+<p align="center">
+  <i>Java, Python, MVC, Node.js, Express, React 18, React Native, TypeScript, PostgreSQL, Firebase</i>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>🚀 DevOps & Cloud (Currently Learning)</strong>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws,linux" />
+</p>
+<p align="center">
+  <i>Git, GitHub Actions (CI/CD), Docker, AWS, Linux</i>
+</p>
