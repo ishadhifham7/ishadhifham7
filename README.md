@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/ishadh-ifham-b5a7a2357">
+  <a href="https://linkedin.com/in/ishadh-ifham-b5a7a2357">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
