@@ -9,22 +9,25 @@
 <h2> 👨‍💻 About Me </h2>
 
 <h4>🔭 Current Work</h4> 
-
-•  Building an AI-powered mock interview platform with question generation and response evaluation.  
-• Currently doing AWS Cloud Practitioner certification while learning core cloud fundamentals.  
-• Designing low-latency conversational audio streams to enable natural, real-time voice interactions with AI systems.  
-• Learning AI automation to build intelligent workflows and system-level productivity tools.  
+<ul>
+<li>Building an AI-powered mock interview platform with question generation and response evaluation.  </li>
+<li>Currently doing AWS Cloud Practitioner certification while learning core cloud fundamentals.  </li>
+<li>Designing low-latency conversational audio streams to enable natural, real-time voice interactions with AI systems.  </li>
+<li>Learning AI automation to build intelligent workflows and system-level productivity tools.  </li>
+</ul>
 
 <h4>🌱 Learning & Growth </h4> 
-
-• Expanding into Generative AI and LLM-powered application design.  
-• Understanding scalable backend systems and cloud-based architectures.  
-• Exploring agentic workflows and AI system orchestration.  
+<ul>
+<li>Expanding into Generative AI and LLM-powered application design. </li> 
+<li>Understanding scalable backend systems and cloud-based architectures. </li> 
+<li>Exploring agentic workflows and AI system orchestration.  </li>
+</ul>
 
 <h4>👯 Collaboration </h4>
-
-• Open to collaborating on open-source web utilities, developer tools, and clean, product-driven software.  
-• Interested in connecting with developers and builders working on LLMs, automation, and scalable software.
+<ul>
+<li>Open to collaborating on open-source web utilities, developer tools, and clean, product-driven software.  </li>
+<li>Interested in connecting with developers and builders working on LLMs, automation, and scalable software. </li>
+</ul>
 
 <h4>⚡ Fun Fact</h4>
 <ul>
