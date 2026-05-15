@@ -66,7 +66,7 @@
 </p>
 <p align="center">
   <img src="https://api.iconify.design/logos:google-gemini.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Gemini" />
-  <img src="https://api.iconify.design/logos:google-icon.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Gemma" />
+  <img src="https://simpleicons.org/icons/n8n.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 12px; vertical-align: middle; margin: 4px; box-sizing: border-box; filter: invert(41%) sepia(85%) saturate(735%) hue-rotate(308deg) brightness(94%) contrast(92%);" alt="n8n" />
   <img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23ffffff" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 12px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="Grok" />
   <img src="https://api.iconify.design/logos:meta-icon.svg" width="50" height="50" style="background-color: #1a1f2c; border-radius: 12px; padding: 10px; vertical-align: middle; margin: 4px; box-sizing: border-box;" alt="LLaMA" />
 </p>
