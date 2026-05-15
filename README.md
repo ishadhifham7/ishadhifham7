@@ -97,3 +97,11 @@
 <p align="center">
   <i>Git, GitHub Actions (CI/CD), Docker, AWS, Linux</i>
 </p>
+<br>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ishadhifham7&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
